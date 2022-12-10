@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.Main.App
+Class-Path: forms-1.2.1.jar forms-1.2.1.jar
+
