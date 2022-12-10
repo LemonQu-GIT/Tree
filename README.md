@@ -6,7 +6,7 @@
 
 Build by maven
 
-extension used ```@JGoodies's form ```at .\src\main\resources\libs
+extension used ```@JGoodies's form``` at .\src\main\resources\libs
 
 add that in pom.xml
 
